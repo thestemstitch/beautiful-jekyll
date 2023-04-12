@@ -19,7 +19,7 @@ author: a nonprofit organization dedicated to promoting social justice in STEM
 ###############################################
 
 navbar-links:
-  About US: "aboutus"
+  About Us: "aboutus"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
